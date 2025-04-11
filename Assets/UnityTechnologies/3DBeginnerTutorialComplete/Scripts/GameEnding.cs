@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
-
+//this script is used in the GameEnding prefab,
 public class GameEnding : MonoBehaviour
 {
     public float fadeDuration = 1f;

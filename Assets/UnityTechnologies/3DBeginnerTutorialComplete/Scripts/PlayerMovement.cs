@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+//this script is used in the player movement prefab
 
 public class PlayerMovement : MonoBehaviour
 {

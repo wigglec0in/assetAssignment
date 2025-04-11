@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
+//this script is used by the ghost prefab
 
 public class WaypointPatrol : MonoBehaviour
 {

@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//this script is used in the pont of view prefab
 public class Observer : MonoBehaviour
 {
     public Transform player;
